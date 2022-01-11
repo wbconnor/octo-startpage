@@ -1,0 +1,11 @@
+body {
+  background-color: #222;
+}
+
+.octo-frame {
+  width: 100%;
+  max-width: 66vw;
+  min-height: 50vh;
+  border: none;
+  border-radius: 0.25rem;
+}
